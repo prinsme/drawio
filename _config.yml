@@ -1,2 +1,4 @@
 baseurl: "/src/main/webapp"
 url: "https://diagram.prinsh.com/src/main/webapp"
+gems:
+  - jekyll-redirect-from
